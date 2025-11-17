@@ -14,8 +14,12 @@ Trabalhar com elementos visuais e design utilizando CSS3, explorando sistemas de
 
 ### 1. Preparação do Ambiente
 - [ ] Realizar o fork deste repositório
-- [ ] Clonar o repositório forkado para sua máquina
-- [ ] Abrir o projeto no editor de código
+  - ou
+    - [ ] Clonar o repositório forkado para sua máquina, 
+    - [ ] Abrir o projeto no editor de código
+  - ou
+    - [ ] Usar o codespace para edição
+- [ ] Construir a programação visual em style.css de acordo com as indicações abaixos
 
 ### 2. Sistemas de Cores em CSS
 - [ ] **2.1** Aplicar cores usando nomes de cores (ex: `red`, `blue`, `green`)
